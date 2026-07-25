@@ -26,12 +26,14 @@ A 2D platform game developed as a personal project. The game includes character 
 
 ### Programming Coursework
 Programming assignments and projects completed as part of my studies.
-
-### Data Management Projects
-Projects involving data organization and analysis using spreadsheets and other tools.
+- 🔗 [Exercises](https://github.com/JosefaFLSievers7/calculator)
+- 🔗 [Exercises](https://github.com/JosefaFLSievers7/Memory-Game)
 
 ### Web Development Practice
-Practice projects created using HTML and CSS. JosefaFLSievers7
+Practice projects created using HTML and CSS. 
+- 🔗 [HTML/CSS Exercises](https://github.com/JosefaFLSievers7/wdd130)
+- 🔗 [HTML/CSS Exercises](https://github.com/JosefaFLSievers7/wdd230)
+- 🔗 [HTML/CSS Exercises](https://github.com/JosefaFLSievers7/finalProject)
 
 ## GitHub Statistics
 
