@@ -21,7 +21,8 @@ I am a student at BYU-Idaho who is passionate about learning technology and deve
 
 ## Projects and Work
 ### Platformer Game
-A 2D platform game developed as a personal project. The game includes character movement, jumping mechanics, obstacles, and level progression. This project helped me strengthen my programming, problem-solving, and game development skills.
+A 2D platform game developed as a personal project. The game includes character movement, jumping mechanics, and obstacles. This project helped me strengthen my programming, problem-solving, and game development skills.
+**Repository:** https://github.com/JosefaFLSievers7/Game-project
 
 ### Programming Coursework
 Programming assignments and projects completed as part of my studies.
