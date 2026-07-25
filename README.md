@@ -37,4 +37,4 @@ Practice projects created using HTML and CSS.
 
 ## GitHub Statistics
 
-[![jlopezsievers's GitHub stats](https://github-stats-extended.vercel.app/api?username=JosefaFLSievers7)](https://github.com/stats-organization/github-stats-extended)
+![Josefa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosefaFLSievers7&show_icons=true&theme=github_dark)
